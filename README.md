@@ -1,10 +1,27 @@
-## Hi there 👋
-<p align="center">
-  <img src="im.jpg" alt="GitHub Banner" width="100%">
-</p>
+# Hi, I'm Youcera Bali 👋
 
-# Hi, I'm Youcera 👋
+Master's Graduate in Mathematics (Differential Geometry) from the University of Mustapha Stambouli Mascara.
 
-🎓 Master's Graduate in Mathematics (Differential Geometry)
+![Banner](Im.jpg)
 
-💻 Interested in Data Analysis, Artificial Intelligence and Problem Solving.
+## About Me
+
+- 🎓 Master's Graduate in Differential Geometry
+- 📊 Interested in Data Analysis
+- 💻 Learning Programming and GitHub
+- 🌱 Currently looking for entry-level remote opportunities
+
+## Skills
+
+- Mathematics
+- Data Analysis
+- LaTeX
+- MATLAB
+- C++
+- Maple
+- Excel
+
+## Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/bali-youcera
+- Email: baliyoucera@gmail.com
