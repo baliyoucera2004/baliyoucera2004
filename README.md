@@ -2,7 +2,7 @@
 
 Master's Graduate in Mathematics (Differential Geometry) from the University of Mustapha Stambouli Mascara.
 
-![Banner](Im.jpg)
+![Banner](im.jpg)
 
 ## About Me
 
